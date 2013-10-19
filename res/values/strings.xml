@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Level Up Tuts</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="level_greeting">Hello Level Up Tuts</string>
+    <string name="btn_1">Press Me!</string>
+    <string name="logo">Level Up Tuts Logo</string>
+
+</resources>
